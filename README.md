@@ -5,6 +5,8 @@ Connect with me here:
 
 [![](https://img.shields.io/badge/%F0%9F%93%AB-email-blue)](mailto:gfzhang92@gmail.com)
 
+<p align="right"><img src="code.gif"/>
+
 **Languages and Tools:** 
 
 - 🚀 I use daily:
@@ -22,10 +24,11 @@ Connect with me here:
 ![](https://img.shields.io/badge/-Redis-gray?style=plastic&logo=redis)
 ![](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgreSQL)
 
-<details>
-<summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abumaster&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-</details>
+** 📈 My GitHub Stats：**
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abumaster&show_icons=true" alt="abumaster" />
+
+
 
