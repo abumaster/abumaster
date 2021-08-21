@@ -1,13 +1,13 @@
-### Hi there 👋
 
-I'am  a programmer, passion for ✨technology ✨, love reading, deeply loves the life.
-Connect with me here:
+<img align="right" src="code.gif"   width="350" height="250"/>
+## 你好 👋
+
+我是一个程序员- <a href="https://www.abumaster.com" target="_blank"> 阿卜杜萨 </a>，努力成长的，热爱生活，热爱技术。
 
 [![](https://img.shields.io/badge/%F0%9F%93%AB-email-blue)](mailto:gfzhang92@gmail.com)
 
-<p align="right"><img src="code.gif"/>
 
-**Languages and Tools:** 
+### 技能工具:
 
 - 🚀 I use daily:
 ![](https://img.shields.io/badge/-Java-8fcfd1?style=plastic&logo=java)
@@ -26,7 +26,7 @@ Connect with me here:
 
 
 
-** 📈 My GitHub Stats：**
+### 📈 Github数据：
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abumaster&show_icons=true" alt="abumaster" />
 
